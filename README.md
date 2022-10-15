@@ -67,9 +67,9 @@ Return to your fork on GitHub, and refresh the page. You may see a highlighted a
 Before submitting the pull request, you first need to describe the changes you made .
 
 
+
 ## Overview of the Mycryptowebsite
 
+![wb](https://user-images.githubusercontent.com/95677816/195982241-0af5c809-3339-4595-b634-c3e8ddd6f826.png)
 
-### `Live Demo`
-https://nyt-news-app.netlify.app/
 
